@@ -1,7 +1,7 @@
 package main
 
 import (
-	common "common"
+	"common"
 )
 
 func main() {
