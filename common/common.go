@@ -1,5 +1,7 @@
 package common
 
-func CommonFunc() {
+import "fmt"
 
+func CommonFunc() {
+	fmt.Println("test")
 }
