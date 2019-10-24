@@ -1,3 +1,3 @@
-module github.com/Wathis/go-library-test/common
+module common
 
 go 1.13
